@@ -24,3 +24,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabjot11&show_icons=true&locale=en" alt="rabjot11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabjot11&" alt="rabjot11" /></p>
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Rabjot11&theme=nord&no-frame=true&no-bg=true&margin-w=4)
