@@ -3,7 +3,6 @@
 <img src="https://metro.co.uk/wp-content/uploads/2022/03/Cyberwarfare-is-the-battleground-of-the-21st-century-and-were-all-involved-BP-29e0.gif">
 </p>
 
-
 # Hi 👋, I'm Rabjot Singh
 <h1 align="center">Cybersecurity enthusiast</h1>
 
